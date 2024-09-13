@@ -13,7 +13,7 @@
 
 - 🔧 I’m currently pursuing university studies in Data Science.
 - 💡 I’m curious about Machine Learning and IA tools.
-- 📖 I’m currently learning SQL, Python, Java.
+- 📖 I’m currently learning Python for Data Science, SQL (beginner),  Java (beginner).
 - ❄️ I’m looking for an opportunity.
 - 📫 How to reach me  gabrielerogo.cr@gmail.com.
 
@@ -38,7 +38,7 @@
 #### Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
+<!--![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;-->
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 
 #### Database
