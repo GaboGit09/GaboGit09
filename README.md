@@ -14,7 +14,6 @@
 - 🔧 I’m currently pursuing university studies in Data Science.
 - 💡 I’m curious about Machine Learning and IA tools.
 - 📖 I’m currently learning Python for Data Science, SQL (beginner),  Java (beginner).
-- ❄️ I’m looking for an opportunity.
 - 📫 How to reach me  gabrielerogo.cr@gmail.com.
 
 <hr>
